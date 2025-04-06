@@ -1,0 +1,11 @@
+.root {
+    -fx-background-color: #ffffff; /* Weißer Hintergrund */
+    -fx-text-fill: #000000; /* Schwarze Schriftfarbe */
+}
+
+.button {
+    /* Helles Grau für Buttons */
+}
+.check-box{
+    -fx-text: #FFFFFF;
+}

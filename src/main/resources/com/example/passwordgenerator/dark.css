@@ -1,0 +1,23 @@
+.root {
+    -fx-background-color: #333333; /* Dunkelgrauer Hintergrund */
+}
+
+.button { /* Dunkleres Grau für Buttons */
+    -fx-text-fill: #ffffff;
+}
+.label {
+    -fx-text-fill: #FFFFFF;
+}
+.check-box{
+    -fx-text-fill: #FFFFFF;
+
+}
+.slider{
+    -fx-text-fill: #FFFFFF;
+    -fx-background-color:transparent;
+
+}
+.slider .track {
+    -fx-background-color: #000000;
+}
+
